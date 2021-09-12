@@ -1,0 +1,15 @@
+[package]
+name = "yesorno"
+description = "Useful for validating answers of a CLI prompt."
+documentation = "https://docs.rs/yesorno"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+authors = ["sathishsoundharajan <sathishwelcomez@ymail.com>"]
+categories = ["command-line-interface"]
+
+[badges.maintenance]
+status = "actively-developed"
+
+[dependencies]
