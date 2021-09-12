@@ -8,6 +8,9 @@ license = "MIT"
 readme = "README.md"
 authors = ["sathishsoundharajan <sathishwelcomez@ymail.com>"]
 categories = ["command-line-interface"]
+homepage = "https://github.com/sathishsoundharajan/yesorno"
+repository = "https://github.com/sathishsoundharajan/yesorno"
+keywords = ["command-line-utility", "yn", "yes", "no", "yesorno"]
 
 [badges.maintenance]
 status = "actively-developed"
